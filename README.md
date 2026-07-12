@@ -1,3 +1,12 @@
+<a href="https://github.com/Rudi-rock">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/main/dark.svg">
+<img alt="Rudi" src="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/main/light.svg">
+</picture>
+</a>
+
+---
+
 # 💫 About Me:
 👋 Hi, I'm Rudra Pratap Singh
 
@@ -54,17 +63,6 @@ Retail-focused peer-to-peer exchange platform for Indian users.
 
 ---
 
-## 🔥 Live Profile Card
-
-<a href="https://github.com/Rudi-rock">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/main/dark_mode.svg">
-<img alt="Rudi-rock" src="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/main/light_mode.svg">
-</picture>
-</a>
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rudi-rock&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rudi-rock&theme=dark&hide_border=false)<br/>
@@ -92,4 +90,4 @@ Internships in **Software Engineering**, **Full Stack**, **AI/ML** (Summer 2026+
 
 [![](https://visitcount.itsvg.in/api?id=Rudi-rock&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with ❤️ + neofetch card -->
+<!-- Proudly created with ❤️ + premium SVG banner -->
