@@ -4,6 +4,13 @@
 <img alt="Rudi" src="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/main/light.svg">
 </picture>
 </a>
+---
+<a href="https://github.com/Rudi-rock">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/main/dark.svg">
+<img alt="Rudi" src="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/main/light.svg">
+</picture>
+</a>
 
 ---
 
