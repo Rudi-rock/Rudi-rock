@@ -6,7 +6,7 @@
 </a>
 
 # 💫 About Me:
-🔭 I’m currently working on — AI-powered web projects & hackathon projects<br>👯 I’m looking to collaborate on — AI, Web3 & innovative hackathon projects<br>🤝 I’m looking for help with — DSA, system design & advanced development<br>🌱 I’m currently learning — DSA, AI/ML & full-stack development<br>💬 Ask me about — Hackathons, MERN, AI, Web3 & project building<br>⚡ Fun fact — I’ve participated in 21+ hackathons 🏆
+🔭 I’m currently working on — AI-powered web projects & hackathon projects<br>👯 I’m looking to collaborate on — AI, Web3 & innovative hackathon projects<br>🤝 I’m looking for help with — DSA, system design & advanced development<br>🌱 I’m currently learning — DSA, AI/ML & full-stack development<br>💬 Ask me about — Hackathons, MERN, AI, Web3 & project building<br>⚡ Fun fact — I’ve participated in 23+ hackathons 🏆
 
 
 ## 🌐 Socials:
