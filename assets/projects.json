@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "BhashaShield",
+      "description": "An AI-powered shield and defensive mechanism built during an intensive hackathon sprint."
+    },
+    {
+      "repo": "SchoolOps-AI",
+      "description": "A comprehensive school operations platform powered by intelligent AI and automation."
+    },
+    {
+      "repo": "drone-defence-system",
+      "description": "A sophisticated drone detection and defensive engineering platform leveraging modern systems."
+    },
+    {
+      "repo": "JourneyMind-AI",
+      "description": "An AI-powered mental mapping tool that breaks down your ambitious objectives into daily tasks."
+    }
+  ]
+}
