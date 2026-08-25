@@ -91,9 +91,9 @@ Hi, I'm **Rudra Pratap Singh (Rudi)**. I'm a CSE student at SRMIST building thin
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/output/dist/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/output/dist/snake.svg">
-  <img src="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/output/dist/snake.svg" width="100%" alt="snake eating the contribution graph">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/Rudi-rock/Rudi-rock/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
