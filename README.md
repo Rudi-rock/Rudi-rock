@@ -7,7 +7,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/Rudi-rock">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Rudra+Pratap+Singh+(Rudi);AI,+Cybersecurity+%26+Full+Stack;23%2B+Hackathons;01100011+01101111+01100100+01100101" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Rudra+Pratap+Singh+(Rudi);AI,+Cybersecurity+%26+Full+Stack;26%2B+Hackathons;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br>
@@ -28,7 +28,7 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Rudra Pratap Singh (Rudi)**. I'm a CSE student at SRMIST building things that sit somewhere between AI, cybersecurity, and the web, and I thrive in competitive 24-hour hackathons (23+ completed).
+Hi, I'm **Rudra Pratap Singh (Rudi)**. I'm a CSE student at SRMIST building things that sit somewhere between AI, cybersecurity, and the web, and I thrive in competitive 24-hour hackathons (26+ completed).
 
 - Currently exploring **AI-powered architectures and advanced system security**
 - Building ambitious engineering projects and leading development teams
